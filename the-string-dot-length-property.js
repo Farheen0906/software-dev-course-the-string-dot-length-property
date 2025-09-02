@@ -27,8 +27,8 @@ let stringThree = "";
 // Your code here
 
 let lengthOne = stringOne.length;
-console.log("The length of the first string: " + stringOne  + " is " + lengthOne);
+console.log("The length of the first string: " + "\"" +stringOne + "\""  + " is " + lengthOne);
 let lengthTwo = stringTwo.length;
-console.log("The length of the second string: " + stringTwo  + " is " + lengthTwo);
+console.log("The length of the second string: " + "\"" +stringTwo + "\""  + " is " + lengthTwo);
 let lengthThree = stringThree.length;
-console.log("The length of the third string: " + lengthThree);
+console.log("The length of the third string: "+ "\"" +stringThree + "\"" + " is "  + lengthThree);
